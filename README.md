@@ -10,7 +10,6 @@ Tumorator aims to provide easy access to cancer testing centres, educate the mas
 We are turning our focus on Breast and Testicular cancers as they are the two most common types of cancer across the world and Iraq is no exception.
 
 To achieve our goals we adopted a simple and straight to the point approach.
-
 ![Intro](https://user-images.githubusercontent.com/129291090/228602753-3909e75d-493b-468c-aefc-a8a83bcb2dbe.png)
 
 When the app is first opened the user is greeted with the sign-up window which requires the first and last name and gender of the user, it also asks the user a very important question, “Do you have cancer?” and depending on their answer they are segregated to the appropriate section.
