@@ -21,3 +21,12 @@ We do not require an Email or phone number as they aren’t particularly needed 
 ## Signup Screenshots
 ![Femail Sign up](https://user-images.githubusercontent.com/129291090/228602835-c9f76d37-19ed-4762-8140-cb76d0b65e0a.png)
 ![Male Sign up](https://user-images.githubusercontent.com/129291090/228603366-a7f8a4e5-e1e6-48d6-b27a-a0514f99c34a.png)
+
+If the user is answers with “Yes” to that question they are directed to the Community tab where two main part exist, the community highlight and the events.
+The community highlight is a showcase of a random user porfile where other users can see to get inspired or maybe hopeful.
+While the event section has a slew of community support groups for people already afflicted by cancer or effected by it in anyway possible.
+
+## Community section screenshots
+![Support Groups](https://user-images.githubusercontent.com/129291090/228611230-c334c70a-3a37-4d39-9886-89c32989d388.png)
+![Male Support Groups](https://user-images.githubusercontent.com/129291090/228611257-17fffcd8-6a33-4527-b617-5b6b28f040c8.png)![Event Details](https://user-images.githubusercontent.com/129291090/228611274-afd2e5cb-f173-4f31-90f9-dd7f2154ffe7.png)
+
