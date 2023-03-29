@@ -13,10 +13,11 @@ To achieve our goals we adopted a simple and straight to the point approach.
 
 ![Intro](https://user-images.githubusercontent.com/129291090/228602753-3909e75d-493b-468c-aefc-a8a83bcb2dbe.png)
 
+## Sign Up page
 When the app is first opened the user is greeted with the sign-up window which requires the first and last name and gender of the user, it also asks the user a very important question, “Do you have cancer?” and depending on their answer they are segregated to the appropriate section.
 
 We do not require an Email or phone number as they aren’t particularly needed and adding them could hender the simple and stright to the point approach we’re aiming for.
 
-## Screenshots
+## Signup Screenshots
 ![Femail Sign up](https://user-images.githubusercontent.com/129291090/228602835-c9f76d37-19ed-4762-8140-cb76d0b65e0a.png)
 ![Male Sign up](https://user-images.githubusercontent.com/129291090/228603366-a7f8a4e5-e1e6-48d6-b27a-a0514f99c34a.png)
