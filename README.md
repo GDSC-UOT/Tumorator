@@ -21,12 +21,38 @@ We do not require an Email or phone number as they aren’t particularly needed 
 ## Signup Screenshots
 ![Femail Sign up](https://user-images.githubusercontent.com/129291090/228602835-c9f76d37-19ed-4762-8140-cb76d0b65e0a.png)
 ![Male Sign up](https://user-images.githubusercontent.com/129291090/228603366-a7f8a4e5-e1e6-48d6-b27a-a0514f99c34a.png)
-
+##
 If the user is answers with “Yes” to that question they are directed to the Community tab where two main part exist, the community highlight and the events.
 The community highlight is a showcase of a random user porfile where other users can see to get inspired or maybe hopeful.
 While the event section has a slew of community support groups for people already afflicted by cancer or effected by it in anyway possible.
 
 ## Community section screenshots
 ![Support Groups](https://user-images.githubusercontent.com/129291090/228611230-c334c70a-3a37-4d39-9886-89c32989d388.png)
-![Male Support Groups](https://user-images.githubusercontent.com/129291090/228611257-17fffcd8-6a33-4527-b617-5b6b28f040c8.png)![Event Details](https://user-images.githubusercontent.com/129291090/228611274-afd2e5cb-f173-4f31-90f9-dd7f2154ffe7.png)
+![Event Details](https://user-images.githubusercontent.com/129291090/228611274-afd2e5cb-f173-4f31-90f9-dd7f2154ffe7.png)
 
+##
+
+Alternitivelly if a user answered with “No” on the aforementioned question they will be directed to the test centers section which highlight some of the best and highest rated testing facilities in the country, it also highlights and recommends a center depending on the user reviews and the current user location so it’s the closest, highest rated center near each individual.
+
+
+## Test centers section screenshots
+![Test Centers](https://user-images.githubusercontent.com/129291090/228611843-dbade4c0-5324-4f71-9ee7-e8a3f83fd0eb.png)
+![Test Centers details](https://user-images.githubusercontent.com/129291090/228612138-2b1ec652-358e-4d6b-8626-faf682e69cd8.png)
+
+##
+
+A user can also setup a profile where they can have a portrait, a summery of hopes and dreams and such, it also displays their current affliction status, ie. cancer free or battling cancer.
+The profile also houses a very important function; because all the data of centers and events are maintained and entered by us it is almost certin that we’ll miss some spots which the users will help fill out with the user suggestion section.
+
+
+## Profile screenshots
+![Profile](https://user-images.githubusercontent.com/129291090/228612367-832136d2-433b-49d9-ab74-6679aa35ce43.png)
+
+
+Finally, the app sports a different colour scheme depending on the gender of the user which is a unique touch that would help distinguish it from other health apps and add a special flare to it.
+
+## Alternative color scheme screenshots
+![MaleProfile](https://user-images.githubusercontent.com/129291090/228612712-8b21ddfe-a7a0-42ef-892f-0f45dcb22e99.png)
+![Male Sign up](https://user-images.githubusercontent.com/129291090/228612756-06101b53-67ed-42e7-9795-d82b7cbaaa1a.png)
+![MaleTest Centers](https://user-images.githubusercontent.com/129291090/228612800-57c6a9a3-2c47-4838-860f-0b19283da978.png)
+![MaleTest Centers details](https://user-images.githubusercontent.com/129291090/228612848-aa956c04-dbba-4fb9-8683-c4aef427cf25.png)
