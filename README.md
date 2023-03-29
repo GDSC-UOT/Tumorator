@@ -18,3 +18,4 @@ When the app is first opened the user is greeted with the sign-up window which r
 We do not require an Email or phone number as they aren’t particularly needed and adding them could hender the simple and stright to the point approach we’re aiming for.
 
 ![Femail Sign up](https://user-images.githubusercontent.com/129291090/228602835-c9f76d37-19ed-4762-8140-cb76d0b65e0a.png)
+![Male Sign up](https://user-images.githubusercontent.com/129291090/228603366-a7f8a4e5-e1e6-48d6-b27a-a0514f99c34a.png)
