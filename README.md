@@ -28,7 +28,7 @@ To achieve our goals we adopted a simple and straight to the point approach wher
 
 ## Our Team
 
-- [@MrH115] (https://github.com/MrH115)
--
--
--
+- Hasan Humam
+- Dima Sabah
+- Hasan Mustafa
+- Sara Soham
